@@ -122,5 +122,12 @@
     <script>
         let table = new DataTable ('#productTable')
     </script>
+
+
+
+    <button type="button" class="btn btn-info text-light mx-5 mt-3">
+        <a href="index.php" class="text-light text-decoration-none">Back to Home</a>
+    </button>
+    
 </body>
 </html>
