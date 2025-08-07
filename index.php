@@ -67,6 +67,10 @@
         <li><a href="W02_Odd-Even-Number.php">Odd-Even-Number</a></li>
         <li><a href="W03_Grade.php">Culculate Grade</a></li>
         <li><a href="HW_02.php">Culculate Price</a></li>
+        <li><a href="W06_01_loopProduct.php">Loop Product</a></li>
+        <li><a href="W07_01_ConnectDB.php">Connect DB</a></li>
+        <li><a href="W07_02_fetchData.php">Fetch Data</a></li>
+        <li><a href="W08_01_ProductFromDB.php">Product From Data</a></li>
     </ul>
 
 	
